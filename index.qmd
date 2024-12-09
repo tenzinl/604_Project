@@ -3,16 +3,16 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Profile.png
 ---
 
-:::{#me}
+::: {#me}
 
-## Goals
+## Self Introduction
 
-## Education
+Thank you for visiting my website. This page was created for Assignment #4 for DACSS 604.  
 
-## Experience
+I am currently a graduate student in the Data Analytics and Computational Social Science Program, also known as DACSS, at the University of Massachusetts- Amherst. I received by Bachelor's Degree in Psychology, with a minor in Anthropology, from Mount Holyoke College. For over a decade, I have been working for state agencies, and I am currently employed full-time as an employee for the Commonwealth of Massachusetts. My academic background has given me a foundation in understanding human behavior, which I am now complementing with data analytics skills to improve decision-making processes. 
 
 :::
 

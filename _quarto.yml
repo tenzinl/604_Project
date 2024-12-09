@@ -20,8 +20,10 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: sketchy
     toc: true
 
 editor: source
 
+resources: 
+  - "files/**"

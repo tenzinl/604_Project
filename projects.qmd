@@ -2,8 +2,16 @@
 title: "Projects"
 ---
 
+## Syllabus (Clickable link PDF file)
+
+<a href="files/Syllabus.pdf"
+target="_blank">Open Syllabus</a>
+
 ## Project 1
 
-## Project 2
+For my data driven project for DACSS 602, I explored the use of social media habits of Americans. As technology continues to advance, the use of social media has become a popular form of communication and interaction among people of various ages worldwide the popularity of social media has seen a remarkable surge in usage since its inception our study explored whether the frequency and duration of social media use impact the mental health and well-being of adult population. Our research question was: does frequency and duration of social media use affect the mental health of well-being of adults?
 
-## Project 3
+<a href="files/602 Group Project - Social Media and Mental Health.html"
+target="_blank">Open the Standalone Page</a>
+
+
